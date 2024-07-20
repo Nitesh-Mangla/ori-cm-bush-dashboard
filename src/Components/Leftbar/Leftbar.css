@@ -1,0 +1,20 @@
+.LeftContainerOuter{
+    background-color:#f5f5dc;
+}
+
+.LeftContainerInner{
+    background-color:#f5f5f5;
+    width: 100%;
+}
+
+.py-1 {
+    padding-top: 1rem !important;
+    padding-bottom: .35rem !important;
+}
+
+.pt-1 {
+    padding-top: 1rem !important;
+}
+
+
+

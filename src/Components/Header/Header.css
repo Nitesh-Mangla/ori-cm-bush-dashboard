@@ -1,0 +1,33 @@
+.blue{
+    background-color:#6495ed;
+}
+
+.red{
+    background-color:#ff0000;
+}
+
+.yellow{
+    background-color:#ffc300;
+}
+
+.grey{
+    background-color:#a9a9a9;
+    border:none;
+}
+
+.changeValue{
+    text-decoration: none;
+    color: white;
+}
+
+.green{
+    background-color:#008000;
+
+}
+
+.overflow-hidden {
+    overflow: hidden;
+  }
+  
+
+
